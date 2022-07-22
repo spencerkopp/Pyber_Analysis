@@ -23,5 +23,4 @@ The summary dataframe can be found here:
 
 ## Summary
 
-
-
+Fares in all three city types exhibit a spike in late February. Fares in urban areas appear to change the most quickly, especially between March and April. Overall though, all of the three city types remained relatively consistent between January and April. Both urban and suburban city types ended the period with higher fare earnings than the period start. Rural cities ended the period with roughly the same weekly fare earnings than the period start. Average fare per ride increased in more rural cities, whereas fare per ride is at it's lowest in urban areas. In rural areas, average fare per driver is nearly three and a half times greater than the average fare per driver in urban areas, and one and a half times greater than the average fare per driver in suburban areas. This may indicate a shortage of drivers in rural areas.
