@@ -5,7 +5,10 @@
 The purpose of this project is to use Pandas and Matplotlib to create a multiple line graph in which to display data about weekly ride-share fares for each city type. Additionally, this project will include reorganizing the original data to create a summary dataframe containing the statistics for the total drivers, total rides, total fares, average fare per ride, and average fare per driver. These summary metrics will be split up by categories of city, including rural, suburban, and urban.
 
 # Resources
-Data source: city_data.csv, ride_data.csv
+Data source: city_data.csv
+
+ride_data.csv
+
 Software: Python 3.6.1, Jupyter Notebook 6.4.8
 
 ## Results
